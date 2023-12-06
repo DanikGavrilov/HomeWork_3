@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\bin\Debug\net8.0\Task_03.exe
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\bin\Debug\net8.0\Task_03.deps.json
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\bin\Debug\net8.0\Task_03.runtimeconfig.json
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\bin\Debug\net8.0\Task_03.dll
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\bin\Debug\net8.0\Task_03.pdb
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.AssemblyInfo.cs
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.dll
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\refint\Task_03.dll
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.pdb
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\Task_03.genruntimeconfig.cache
+C:\Users\Windows\Desktop\GeekBrains\ProgramLenguages\Sem05\Task_03\obj\Debug\net8.0\ref\Task_03.dll
